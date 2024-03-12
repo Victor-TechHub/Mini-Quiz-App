@@ -1,0 +1,102 @@
+[
+    {
+        "text": "What does WWW stands for?",
+        "options": [
+            "World Wide Web",
+            "World Wiped Web",
+            "Weep Weep Weep",
+            "World's Written Wisdom"
+        ],
+        "answer": 0
+    },
+    {
+        "text": "The following are data types except ONE",
+        "options": [
+            "String",
+            "Number",
+            "Boolean",
+            "Unit"
+        ],
+        "answer": 3
+    },
+    {
+        "text": "What does CPU means",
+        "options": [
+            "Center Transmission Unit",
+            "Central Processing Unit",
+            "Controlled and Processed Unit",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "One of these is not a use of a task bar?",
+        "options": [
+            "To highlight applications",
+            "Find application quickly",
+            "Arrange applications",
+            "No idea"
+        ],
+        "answer": 3
+    },
+    {
+        "text": "Music is Life?",
+        "options": [
+            "false",
+            "I don't know",
+            "Maybe",
+            "True"
+        ],
+        "answer": 3
+    },
+    {
+        "text": "Pictures cannot be used as desktop background?",
+        "options": [
+            "False",
+            "I don't know",
+            "True",
+            "Maybe"
+        ],
+        "answer": 0
+    },
+    {
+        "text": "The most commonly used word processor?",
+        "options": [
+            "Microsoft Word",
+            "Disc",
+            "Word pad",
+            "I don't know"
+        ],
+        "answer": 0
+    },
+    {
+        "text": "Which is not a computer software?",
+        "options": [
+            "Monitor",
+            "Mavis Beacon",
+            "Google docs",
+            "Recycle Bin"
+        ],
+        "answer": 0
+    },
+    {
+        "text": "The three (3) main variations of ROM are?",
+        "options": [
+            "TROM, PTROM, ROM",
+            "EPROM, PROM, EEPROM",
+            "ALU, CPU, Memory Unit",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "VDU refers to ______?",
+        "options": [
+            "Variation of Documented Users",
+            "Visual Delete Utils",
+            "Virtual DOM Unit",
+            "Visual Display Unit"
+        ],
+        "answer": 3
+    }
+]
