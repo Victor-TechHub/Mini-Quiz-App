@@ -10,12 +10,12 @@
         "answer": 0
     },
     {
-        "text": "The following are data types except ONE",
+        "text": "There are _____ generations of computer",
         "options": [
-            "String",
-            "Number",
-            "Boolean",
-            "Unit"
+            "sixteen",
+            "nine",
+            "zero",
+            "five"
         ],
         "answer": 3
     },
@@ -30,24 +30,24 @@
         "answer": 1
     },
     {
-        "text": "One of these is not a use of a task bar?",
+        "text": "GUI refers to ?",
         "options": [
-            "To highlight applications",
-            "Find application quickly",
-            "Arrange applications",
+            "General Utility Interface",
+            "Graphic User Interface",
+            "Graphical Understanding",
             "No idea"
         ],
-        "answer": 3
+        "answer": 1
     },
     {
-        "text": "Music is Life?",
+        "text": "_____ is the most important program that runs on a computer.",
         "options": [
-            "false",
+            "Software",
             "I don't know",
-            "Maybe",
-            "True"
+            "Operating System",
+            "Keyboard"
         ],
-        "answer": 3
+        "answer": 2
     },
     {
         "text": "Pictures cannot be used as desktop background?",
@@ -98,5 +98,205 @@
             "Visual Display Unit"
         ],
         "answer": 3
+    },
+    {
+        "text": "_____ is an electronic means of smeding and receiving messages between people through the use of internet.",
+        "options": [
+            "E-mail",
+            "Chrome",
+            "Data",
+            "Video"
+        ],
+        "answer": 0
+    },
+    {
+        "text": "VDU refers to ______?",
+        "options": [
+            "Variation of Documented Users",
+            "Visual Delete Utils",
+            "Virtual DOM Unit",
+            "Visual Display Unit"
+        ],
+        "answer": 3
+    },
+    {
+        "text": "WHat is a file",
+        "options": [
+            "Something you use to file your nails",
+            "A collection of information stored on a computer",
+            "VA type of bird",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "What does it mean to 'copy and paste' ?",
+        "options": [
+            "Making a duplicate of Something and then gluing it unto a page",
+            "Painting a picture",
+            "Moving text or images from one place to another on a computer",
+            "I don't know"
+        ],
+        "answer": 0
+    },
+    {
+        "text": "What is a folder used for on a computer?",
+        "options": [
+            "Storing clothes",
+            "Organizing files and document",
+            "Growing plants",
+            "No idea"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "What does it mean to 'delete' a file?",
+        "options": [
+            "To eat it",
+            "to extract information",
+            "To make it bigger",
+            "To remove it from computer's storage"
+        ],
+        "answer": 3
+    },
+    {
+        "text": "What is a desktop background?",
+        "options": [
+            "A type of furniture",
+            "Visual Delete Utils",
+            "A picture that appears on the computer screen",
+            "A type of dance"
+        ],
+        "answer": 2
+    },
+    {
+        "text": "What is a search engine?",
+        "options": [
+            "A machine used to find lost toys",
+            "A website that helps you find information on the internet",
+            "A type of car",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "What is an 'EMAIL'?",
+        "options": [
+            "A type of mailbox",
+            "A message sent electronically from one person to another",
+            "A type of robot",
+            "I don't know"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "What does it mean to 'log in' to a computer?",
+        "options": [
+            "Climbing unto it",
+            "Entering your username and password to access your account",
+            "Writing  story about computers",
+            "None of the above"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "What is a virus?",
+        "options": [
+            "A type of illness",
+            "A harmful program that can damge your computer",
+            "A type of bug",
+            "No idea"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "What is a browser?",
+        "options": [
+            "A type of dog",
+            "A software program used to access and view websites on the internet",
+            "A type of boat",
+            "I don't know"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "What does it mean to 'upload' a file ?",
+        "options": [
+            "To send it from your computer to the internet",
+            "To turn it into a balloon",
+            "To download it from the internet to your computer ",
+            "I don't know"
+        ],
+        "answer": 0
+    },
+    {
+        "text": "Hardware are parts of the computer that?",
+        "options": [
+            "Are sold in the market",
+            "can be seen and touched",
+            "No idea",
+            "I don't know"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "The room where computere are kept should be?",
+        "options": [
+            "Dusty",
+            "Clean and Ventilated",
+            "Dirty ",
+            "I don't know"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "All computer peripherals should be ___ when not in use",
+        "options": [
+            "put on",
+            "put off",
+            "lightened",
+            "I don't know"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "How to save a document on a computer?",
+        "options": [
+            "By throwing it in the trash",
+            "Clicking the 'Save' button or pressing CTRL + S",
+            "Sending it to a friend",
+            "I don't know"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "What is a keyboard used for?",
+        "options": [
+            "Playing music",
+            "Decorating your desk",
+            "Typing words and commands",
+            "I don't know"
+        ],
+        "answer": 2
+    },
+    {
+        "text": "The most popular IDE is?",
+        "options": [
+            "ATOM",
+            "VSCODE",
+            "VIM",
+            "Notepad"
+        ],
+        "answer": 1
+    },
+    {
+        "text": "What does it mean to 'upload' a file ?",
+        "options": [
+            "To send it from your computer to the internet",
+            "To turn it into a balloon",
+            "To download it from the internet to your computer ",
+            "I don't know"
+        ],
+        "answer": 0
     }
 ]

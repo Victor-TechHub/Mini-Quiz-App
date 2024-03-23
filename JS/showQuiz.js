@@ -13,11 +13,6 @@ export let currentIndex = 0
 let score = 0
 let username = prompt("Enter username")
 
-if (username === "") {
-    alert("Please use a valid info")
-    username = prompt("Please enter valid USERNAME")
-}
-
 
 export const displayQuiz = (data) => {
     const currentQuestion = data[currentIndex]
@@ -38,12 +33,12 @@ function updateScore(score, quiz) {
     console.log(`currentIndex is ${currentIndex} and The Quiz length is ${quiz.length}`);
 
     if (currentIndex >= quiz.length) {
-    showScore.innerHTML = ``
-    showScore.classList.remove("hide")
-    document.querySelector(".quiz-contents").classList.add("hide")
-    document.querySelector(".question-number-content").classList.add("hide")
-    document.querySelector(".quiz-section").innerHTML =
-     `<div class="score ${score <= 4 ? "failed" : "passed"}">END OF SESSION! <br /> <h4>${username}, your score is ${score}/${quiz.length}!</h4></div>`
+        showScore.innerHTML = ``
+        showScore.classList.remove("hide")
+        document.querySelector(".quiz-contents").classList.add("hide")
+        document.querySelector(".question-number-content").classList.add("hide")
+        document.querySelector(".quiz-section").innerHTML =
+            `<div class="score ${score <= 4 ? "failed" : "passed"}">END OF SESSION! <br /> <h4>${username}, your score is ${score * 2}/${quiz.length * 2}!</h4></div>`
     }
 }
 
@@ -52,7 +47,7 @@ const selectedOption = (e, data, index) => {
     const allBtns = Array.from(optionContainer.childNodes)
     const currentQuestion = data[currentIndex]
     selectedBtn.className = "btn answered"
-    
+
     if (currentQuestion.answer === index) {
         score++
     }

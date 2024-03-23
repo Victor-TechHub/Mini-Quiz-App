@@ -1,4 +1,5 @@
 import { questionIdentifier, currentIndex } from "./showQuiz.js"
+const indicator = document.querySelector("#identifier")
 
 export function updateQuestionIndex(data) {
     questionIdentifier.innerHTML = ""
@@ -9,8 +10,11 @@ export function updateQuestionIndex(data) {
         const spanArr = Array.from(questionIdentifier.childNodes)
         spanArr.forEach((element, index) => {
             index === currentIndex && element.classList.add("active")
-            index < currentIndex && element.classList.add("done") 
-        }) 
+            index < currentIndex && element.classList.add("done")
+        })
         questionIdentifier.appendChild(span)
+
     }
+    indicator.innerHTML = `Question ${currentIndex + 1}/${data.length}`
+
 }
